@@ -1,9 +1,11 @@
-Front End Challenge
+Front-End Challenge
 ====================
 
-This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way. Spend as little or as much time as you would like to complete your chosen path. Get as much completed as you can, with the focus on functionality over design.
+This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way. Get as much completed as you can, and focus on both functionality and design.
 
-In a fictional world, we are branching into the music business and need a new a website. This website needs to display the top 100 songs based on the iTunes API.   
+In a fictional world, we are branching into the music business and need a new a website. This website needs to display the top 100 songs based on the iTunes API, and maybe even the lyrics of these songs from musixmatch.
+
+Before you get started, make sure to read through all the levels below.
 
 #### Base Requirements For All Levels
 -------
@@ -54,6 +56,16 @@ Choose one of the following routes for your journey.
 + Allow the user to see more information about a selected Album
 + Host the website on the service of your choice (We enjoy cloud hosting like Azure or AWS, but we would also settle for a *.github.io address)
 
+
+-------
+### Master
+
+*"You must believe!"*
+
+**TASKS**
+* All of the base, novice, intermediate and expert requirements
++ Host the application online and use a server framework
++ Make it possible to find and display lyrics (where available) using the [musicXmatch API](https://rapidapi.com/musixmatch.com/api/musixmatch)
 
 -------
 ### Bonus Round
