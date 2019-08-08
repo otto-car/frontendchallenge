@@ -1,3 +1,5 @@
+\(inspired by [CopoFi's front end challenge](https://github.com/CopoFi/frontendchallenge)\)
+
 Front-End Challenge
 ====================
 
