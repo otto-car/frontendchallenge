@@ -5,6 +5,13 @@ Front-End Challenge
 
 This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way. Get as much completed as you can, and focus on both functionality and design.
 
+## Things we're looking for
+- Clean & readable code is super important, as it means it's easier for people to read, reuse, and refactor your work
+- Good use of version control means it's easy for people to check and review your code
+- Using a testing framework (where applicable) means you're more likely to deliver robust code
+
+## The Challenge
+
 In a fictional world, we are branching into the music business and need a new a website. This website needs to display the top 100 songs based on the iTunes API, and maybe even the lyrics of these songs from musixmatch.
 
 Before you get started, make sure to read through all the levels below.
